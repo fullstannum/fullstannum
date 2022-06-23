@@ -1,4 +1,4 @@
-### "hello WooSeok" 🕸
+### "Hello WooSeok" 🕸 <img src="https://user-images.githubusercontent.com/28581787/175356490-57e9c3c3-2088-49b9-b1fd-42de23f317c1.gif" width="10%">
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
 <p align="center">
@@ -14,3 +14,5 @@
 
 </br></br></br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffullstannum&count_bg=%23717176&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
